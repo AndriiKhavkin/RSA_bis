@@ -1,0 +1,6 @@
+D:\Users\Andre\RiderProjects\RSA_bis\RSA_bis\obj\Debug\RSA_bis.csproj.AssemblyReference.cache
+D:\Users\Andre\RiderProjects\RSA_bis\RSA_bis\obj\Debug\RSA_bis.csproj.CoreCompileInputs.cache
+D:\Users\Andre\RiderProjects\RSA_bis\RSA_bis\bin\Debug\RSA_bis.exe
+D:\Users\Andre\RiderProjects\RSA_bis\RSA_bis\bin\Debug\RSA_bis.pdb
+D:\Users\Andre\RiderProjects\RSA_bis\RSA_bis\obj\Debug\RSA_bis.exe
+D:\Users\Andre\RiderProjects\RSA_bis\RSA_bis\obj\Debug\RSA_bis.pdb
